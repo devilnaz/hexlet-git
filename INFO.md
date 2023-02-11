@@ -1,2 +1,1 @@
-new info
-test info
+new text for info
